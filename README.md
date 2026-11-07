@@ -1,2 +1,5 @@
 # Programe
-Programe de la excelenta
+Declararea variabilelor
+Atribuirea
+Inlocuirea
+Aria unui triunghi

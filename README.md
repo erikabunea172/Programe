@@ -1,5 +1,8 @@
 # Programe
 Declararea variabilelor
+
 Atribuirea
+
 Inlocuirea
+
 Aria unui triunghi
